@@ -1,0 +1,15 @@
+//embed{
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/01_socym.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/02_systemi.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/03_systemi.pdf}
+    \includepdf[pages=1,scale=0.865,noautoscale]{images/ads/04_timee.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/05_kintone.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/06_helpfeel.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/07_hatena.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/08_shoeisha.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/09_lisee.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/10_yapc.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/11_ooc.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/12_phpcon.pdf}
+    \includepdf[pages=1,scale=1,noautoscale]{images/ads/13_gishohaku10.pdf}
+//}

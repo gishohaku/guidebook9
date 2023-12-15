@@ -1,0 +1,15 @@
+//embed{
+    \clearpage
+    \addcontentsline{toc}{chapter}{編集者に聞いてみた！出版社・編プロの履歴書}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/0_cover.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/1954_cq.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/1961_tkd-pbl.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/1969_gihyo.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/1970_kspub.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/1977_kohgakusha.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/1985_shoeisha.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/1994_socym.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/1995_borndigital.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/2015_mynavibooks.pdf}
+    \includepdf[noautoscale,scale=1,pagecommand={\thispagestyle{plainhead}}]{images/publishers/2018_zukunft-works.pdf}
+//}
